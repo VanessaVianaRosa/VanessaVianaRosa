@@ -33,9 +33,7 @@ https://user-images.githubusercontent.com/109086900/193042416-9383902a-042f-4167
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessavianarosa33) 
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wanessa_rich33) 
-
-
-
+ [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/62ad15ad-f5e5-48b5-a2fb-e1c4422ac409/public_url)
 
 
 # 💻 Meus favoritos:
